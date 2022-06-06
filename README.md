@@ -1,5 +1,5 @@
 # Building the library
-This project was done in order to integrate the [Terra Wallet Provider library] (https://www.npmjs.com/package/@terra-money/wallet-provider) in a Bubble.io application.
+This project was done in order to integrate the [Terra Wallet Provider library](https://www.npmjs.com/package/@terra-money/wallet-provider) in a Bubble.io application.
 This is directed at exporting a unique file to integrate the logic of the library directly in the browser.
 
 To build the library, use: 
